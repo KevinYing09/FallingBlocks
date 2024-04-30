@@ -114,4 +114,3 @@ class Block(object):
         self.shape = shapes[number]
         self.color = shape_colors[shapes.index(self.shape)]
         self.rotation = 0
-
